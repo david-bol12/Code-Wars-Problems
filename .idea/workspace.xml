@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50b4e82a-7356-4219-8282-671fcf1a28e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/5 kyu/Moving Zeros To The End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/5 kyu/int32 to IPv4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6 kyu/Bit Counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6 kyu/Break camelCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6 kyu/Detect Pangram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6 kyu/Find the Parity Outlier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6 kyu/Find the odd int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6 kyu/Find the unique number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6 kyu/Who likes it.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Disemvowel Trolls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Get the Middle Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Isograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Jaden Casing Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Number of People in the Bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Printer Errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Shortest Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Valid Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/7 kyu/Vowel Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Are You Playing Banjo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Beginner - Lost Without a Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Beginner Series #2 Clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Century From Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Convert a String to a Number!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Convert boolean values to strings 'Yes' or 'No'.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Convert number to a reversed array of digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Counting sheep....py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Find the smallest integer in the array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Function 1 - hello world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Grasshopper - Summation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Opposite number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Opposites Attract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Remove String Spaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Returning Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/Sum of positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/8 kyu/You Can't Code Under Pressure #1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2u54TEEU99AplUm8XUnP8nDHYF8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Pageination Helper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50b4e82a-7356-4219-8282-671fcf1a28e7" name="Changes" comment="" />
+      <created>1741525107707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741525107707</updated>
+    </task>
+    <servers />
+  </component>
+</project>
